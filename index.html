@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>B2B SaaS RevOps Pipeline & Onboarding Analysis</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- FontAwesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="logo-area">
+                <div class="logo-icon"><i class="fa-solid fa-chart-line-up"></i></div>
+                <div class="logo-text">Rev<span>Ops</span></div>
+            </div>
+            <nav class="nav-menu">
+                <a href="#summary" class="nav-item active" id="nav-summary"><i class="fa-solid fa-grid-2"></i> Dashboard</a>
+                <a href="#workflows" class="nav-item" id="nav-workflows"><i class="fa-solid fa-network-wired"></i> Workflow Mapping</a>
+                <a href="#slides" class="nav-item" id="nav-slides"><i class="fa-solid fa-presentation-screen"></i> Leadership Deck</a>
+                <a href="#audit" class="nav-item" id="nav-audit"><i class="fa-solid fa-list-check"></i> ETL Audit Log</a>
+                <a href="#downloads" class="nav-item" id="nav-downloads"><i class="fa-solid fa-download"></i> Download Center</a>
+            </nav>
+            <div class="theme-switch-container">
+                <span class="theme-label"><i class="fa-solid fa-moon"></i> Dark Mode</span>
+                <label class="switch">
+                    <input type="checkbox" id="theme-toggle" checked>
+                    <span class="slider round"></span>
+                </label>
+            </div>
+            <div class="sidebar-footer">
+                <p>RevOps Research Project</p>
+                <span class="version">v2.0 (Automated)</span>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Top Bar -->
+            <header class="topbar">
+                <div class="header-title">
+                    <h1>B2B SaaS Revenue Pipeline Analysis</h1>
+                    <p>End-to-End RevOps ETL & Workflow Automation Project</p>
+                </div>
+                <div class="badge-container">
+                    <span class="badge badge-accent"><i class="fa-solid fa-bolt"></i> Onboarding Lag: -99%</span>
+                    <span class="badge badge-primary"><i class="fa-solid fa-clock"></i> Reconcile Time: -30%</span>
+                </div>
+            </header>
+
+            <!-- Dashboard Summary Section -->
+            <section id="summary" class="content-section active-section">
+                <!-- KPI Row -->
+                <div class="kpi-grid">
+                    <div class="kpi-card">
+                        <div class="kpi-icon icon-leads"><i class="fa-solid fa-users"></i></div>
+                        <div class="kpi-info">
+                            <span class="kpi-title">Total Leads Analyzed</span>
+                            <h2 class="kpi-value" id="kpi-leads">550</h2>
+                            <span class="kpi-sub">Cleaned from 565 raw rows</span>
+                        </div>
+                    </div>
+                    <div class="kpi-card">
+                        <div class="kpi-icon icon-trials"><i class="fa-solid fa-user-gear"></i></div>
+                        <div class="kpi-info">
+                            <span class="kpi-title">Trial Activation Rate</span>
+                            <h2 class="kpi-value" id="kpi-trials">63.6%</h2>
+                            <span class="kpi-sub">350 active trials created</span>
+                        </div>
+                    </div>
+                    <div class="kpi-card">
+                        <div class="kpi-icon icon-conversions"><i class="fa-solid fa-circle-check"></i></div>
+                        <div class="kpi-info">
+                            <span class="kpi-title">Trial-to-Paid Rate</span>
+                            <h2 class="kpi-value" id="kpi-conversions">29.7%</h2>
+                            <span class="kpi-sub">104 paying customers won</span>
+                        </div>
+                    </div>
+                    <div class="kpi-card">
+                        <div class="kpi-icon icon-mrr"><i class="fa-solid fa-money-bill-trend-up"></i></div>
+                        <div class="kpi-info">
+                            <span class="kpi-title">New MRR Added</span>
+                            <h2 class="kpi-value" id="kpi-mrr">$178,350</h2>
+                            <span class="kpi-sub">Average deal velocity: 19 days</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Charts Grid -->
+                <div class="charts-grid">
+                    <div class="chart-container large-chart">
+                        <div class="chart-header">
+                            <h3><i class="fa-solid fa-chart-line"></i> Weekly Pipeline Funnel Velocity</h3>
+                            <p>Leads, trials, and conversions tracked week-by-week</p>
+                        </div>
+                        <div class="chart-body">
+                            <canvas id="weeklyFunnelChart"></canvas>
+                        </div>
+                    </div>
+                    <div class="charts-subgrid">
+                        <div class="chart-container">
+                            <div class="chart-header">
+                                <h3><i class="fa-solid fa-filter"></i> Funnel Conversion Drop-off</h3>
+                                <p>Volume and drop-off rate at each stage</p>
+                            </div>
+                            <div class="chart-body">
+                                <canvas id="funnelDropChart"></canvas>
+                            </div>
+                        </div>
+                        <div class="chart-container">
+                            <div class="chart-header">
+                                <h3><i class="fa-solid fa-chart-pie"></i> MRR Added by Segment</h3>
+                                <p>Revenue contribution from SMB, Mid-Market, & Enterprise</p>
+                            </div>
+                            <div class="chart-body">
+                                <canvas id="segmentChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Workflows Mapping Section -->
+            <section id="workflows" class="content-section">
+                <div class="section-card">
+                    <div class="section-card-header">
+                        <h2><i class="fa-solid fa-network-wired"></i> Customer Onboarding & Billing Workflows</h2>
+                        <p>Toggle between the manual legacy workflow and the newly automated integration workflow</p>
+                        <div class="workflow-toggle">
+                            <button class="toggle-btn active" id="btn-workflow-current">Current State (Manual)</button>
+                            <button class="toggle-btn" id="btn-workflow-future">Future State (Automated)</button>
+                        </div>
+                    </div>
+                    <div class="section-card-body">
+                        <!-- Current State Workflow Map -->
+                        <div class="workflow-map active-map" id="map-current">
+                            <div class="workflow-steps-container">
+                                <div class="wf-node border-danger">
+                                    <div class="wf-badge bg-danger">Sales</div>
+                                    <h4>Opportunity Closed</h4>
+                                    <p>Sales rep closes a deal, downloads a PDF contract from DocuSign.</p>
+                                    <span class="wf-arrow"><i class="fa-solid fa-envelope"></i> Manual Email</span>
+                                </div>
+                                <div class="wf-node border-warning">
+                                    <div class="wf-badge bg-warning">Finance Inbox</div>
+                                    <h4>Billing Review Queue</h4>
+                                    <p>Emails wait in shared inbox. Delay: **4.2 days average** before processing.</p>
+                                    <span class="wf-arrow"><i class="fa-solid fa-keyboard"></i> Copy/Paste Entry</span>
+                                </div>
+                                <div class="wf-node border-warning">
+                                    <div class="wf-badge bg-warning">Stripe Setup</div>
+                                    <h4>Manual Customer Setup</h4>
+                                    <p>Billing manager manually re-keys customer data into Stripe (~5% typo rate).</p>
+                                    <span class="wf-arrow"><i class="fa-solid fa-money-bill"></i> Invoice Sent</span>
+                                </div>
+                                <div class="wf-node border-info">
+                                    <div class="wf-badge bg-info">Payment Audit</div>
+                                    <h4>Bank Ledger Verification</h4>
+                                    <p>Finance daily-audits bank ledger to confirm invoice ACH receipts.</p>
+                                    <span class="wf-arrow"><i class="fa-solid fa-comment-dots"></i> Slack Alert</span>
+                                </div>
+                                <div class="wf-node border-danger">
+                                    <div class="wf-badge bg-danger">Operations</div>
+                                    <h4>Manual Account Setup</h4>
+                                    <p>Ops engineer manually provisions user credentials in databases. Delay: **2.1 days**.</p>
+                                    <span class="wf-arrow-end"><i class="fa-solid fa-circle-check"></i> Customer Active</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Future State Workflow Map -->
+                        <div class="workflow-map" id="map-future">
+                            <div class="workflow-steps-container">
+                                <div class="wf-node border-success">
+                                    <div class="wf-badge bg-success">Sales CRM</div>
+                                    <h4>Opportunity Closed</h4>
+                                    <p>Opportunity set to 'Closed Won' in Salesforce CRM.</p>
+                                    <span class="wf-arrow-fast"><i class="fa-solid fa-bolt"></i> Webhook Event (0.5s)</span>
+                                </div>
+                                <div class="wf-node border-success">
+                                    <div class="wf-badge bg-success">iPaaS Sync</div>
+                                    <h4>Automation Middleware</h4>
+                                    <p>Zapier/Make captures data, queries Stripe, maps Salesforce ID to customer metadata.</p>
+                                    <span class="wf-arrow-fast"><i class="fa-solid fa-gears"></i> Create Profile (1s)</span>
+                                </div>
+                                <div class="wf-node border-success">
+                                    <div class="wf-badge bg-success">Stripe Engine</div>
+                                    <h4>Auto-Billing Generation</h4>
+                                    <p>Stripe automatically finalizes invoice & emails checkout URL link to customer.</p>
+                                    <span class="wf-arrow-fast"><i class="fa-solid fa-credit-card"></i> Pay Invoice</span>
+                                </div>
+                                <div class="wf-node border-success">
+                                    <div class="wf-badge bg-success">Stripe Webhook</div>
+                                    <h4>invoice.payment_succeeded</h4>
+                                    <p>Stripe triggers payment success webhook instantly upon processing fund clearance.</p>
+                                    <span class="wf-arrow-fast"><i class="fa-solid fa-server"></i> API Provision (1.5s)</span>
+                                </div>
+                                <div class="wf-node border-success">
+                                    <div class="wf-badge bg-success">Auth0 Provision</div>
+                                    <h4>Instant Account Ready</h4>
+                                    <p>Database API spins up tenant, emails credentials. Slack alerts RevOps channel. Delay: **<2 mins**.</p>
+                                    <span class="wf-arrow-end"><i class="fa-solid fa-circle-check"></i> Customer Active</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Process Gaps Cards -->
+                <div class="gaps-grid">
+                    <div class="gap-card">
+                        <span class="gap-num">01</span>
+                        <h3>Sales-to-Finance Handshake Gap</h3>
+                        <p class="gap-metric"><i class="fa-solid fa-triangle-exclamation"></i> Lag: 4.2 business days</p>
+                        <p class="gap-desc">Sales manually downloads PDF contracts and emails them to billing, which frequently leads to messages getting lost or buried.</p>
+                        <div class="gap-fix">
+                            <span class="fix-title">Automation Fix:</span>
+                            <p>Configure a Salesforce outbound webhook triggered by Opportunity Close to push metadata directly to the billing queue.</p>
+                        </div>
+                    </div>
+                    <div class="gap-card">
+                        <span class="gap-num">02</span>
+                        <h3>Double Data Entry CRM Silo</h3>
+                        <p class="gap-metric"><i class="fa-solid fa-bug"></i> Typo Rate: ~5.0%</p>
+                        <p class="gap-desc">Finance manual profile creation in Stripe from PDF contracts causes name formatting mismatches, failing audits and bouncing invoices.</p>
+                        <div class="gap-fix">
+                            <span class="fix-title">Automation Fix:</span>
+                            <p>iPaaS mapping system syncs Salesforce Account records to Stripe Customer profiles using locked metadata IDs.</p>
+                        </div>
+                    </div>
+                    <div class="gap-card">
+                        <span class="gap-num">03</span>
+                        <h3>Manual Onboarding Provisioning</h3>
+                        <p class="gap-metric"><i class="fa-solid fa-hourglass-half"></i> Time-to-Value Lag: 2.1 days</p>
+                        <p class="gap-desc">Finance manually alerts Ops via Slack after checking bank statements. Customer accounts are set up manually days later.</p>
+                        <div class="gap-fix">
+                            <span class="fix-title">Automation Fix:</span>
+                            <p>Stripe payment success webhook invokes product database API to automatically provision credentials instantly.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Leadership Presentation Slide Deck Section -->
+            <section id="slides" class="content-section">
+                <div class="deck-container">
+                    <div class="deck-header">
+                        <h2><i class="fa-solid fa-presentation-screen"></i> Leadership Presentation Deck Viewer</h2>
+                        <p>Interactive preview of the programmatically generated widescreen slide deck (leadership_presentation.pptx)</p>
+                    </div>
+                    <div class="deck-viewer">
+                        <!-- Simulated PowerPoint Slide Frame -->
+                        <div class="slide-frame" id="slide-canvas">
+                            <!-- Slides will be injected here by app.js -->
+                        </div>
+                        <!-- Deck Controls -->
+                        <div class="deck-controls">
+                            <button class="ctrl-btn" id="btn-slide-prev"><i class="fa-solid fa-chevron-left"></i> Previous Slide</button>
+                            <span class="slide-indicator" id="slide-indicator">Slide 1 of 6</span>
+                            <button class="ctrl-btn" id="btn-slide-next">Next Slide <i class="fa-solid fa-chevron-right"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ETL Audit Log Section -->
+            <section id="audit" class="content-section">
+                <div class="section-card">
+                    <div class="section-card-header">
+                        <h2><i class="fa-solid fa-list-check"></i> RevOps ETL Data Cleansing Report</h2>
+                        <p>Live statistics computed during the Python ETL processing of 565 raw CRM rows</p>
+                    </div>
+                    <div class="section-card-body">
+                        <div class="audit-table-container">
+                            <table class="audit-table">
+                                <thead>
+                                    <tr>
+                                        <th>ETL Process Stage</th>
+                                        <th>Target Issue / Standard</th>
+                                        <th>Action Taken</th>
+                                        <th>Anomalies Resolved</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td><strong>Deduplication</strong></td>
+                                        <td>Duplicate `Lead_ID` inputs (due to CRM double submissions)</td>
+                                        <td>Pruned duplicate rows, keeping first occurrences</td>
+                                        <td class="anomaly-count text-danger" id="audit-dups">15</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Contact Normalization</strong></td>
+                                        <td>Missing contact email fields (5% of raw leads)</td>
+                                        <td>Generated synthetic corporate domain email addresses</td>
+                                        <td class="anomaly-count text-warning" id="audit-emails">22</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Casing Correction</strong></td>
+                                        <td>Inconsistent marketing source labels (e.g., google, GOOGLE)</td>
+                                        <td>Standardized string labels into cohesive categories</td>
+                                        <td class="anomaly-count text-success" id="audit-casing">348</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Date Normalization</strong></td>
+                                        <td>Varied date schemas (YYYY-MM-DD vs. DD/MM/YYYY vs. HH:MM)</td>
+                                        <td>Parsed multiple standard date schemas into datetime stamps</td>
+                                        <td class="anomaly-count text-success" id="audit-dates">1036</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Chronological Audit</strong></td>
+                                        <td>Out-of-order logs (e.g., Trial_Date before Lead_Date)</td>
+                                        <td>Corrected downstream dates to ensure proper chronology</td>
+                                        <td class="anomaly-count text-warning" id="audit-chronology">5</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Revenue Validation</strong></td>
+                                        <td>Negative MRR values, zero values, or outlier inputs</td>
+                                        <td>Capped valuations based on segment medians</td>
+                                        <td class="anomaly-count text-danger" id="audit-revenue">3</td>
+                                    </tr>
+                                    <tr class="audit-summary-row">
+                                        <td colspan="3"><strong>Total Scanned Raw Records</strong></td>
+                                        <td id="audit-total-in">565</td>
+                                    </tr>
+                                    <tr class="audit-summary-row">
+                                        <td colspan="3"><strong>Final Clean Database Rows</strong></td>
+                                        <td id="audit-total-out" class="text-primary">550</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Download Center Section -->
+            <section id="downloads" class="content-section">
+                <div class="download-grid">
+                    <!-- Download Card 1 -->
+                    <div class="dl-card">
+                        <div class="dl-icon icon-csv"><i class="fa-solid fa-file-csv"></i></div>
+                        <h3>Simulated Raw CRM Data</h3>
+                        <p class="dl-meta">File Name: <strong>raw_crm_export.csv</strong></p>
+                        <p class="dl-desc">The dirty CRM export containing casing mismatches, blank email records, duplicate entries, out-of-order dates, and revenue anomalies (565 rows).</p>
+                        <a href="data/raw_crm_export.csv" class="dl-button" download><i class="fa-solid fa-arrow-down-to-line"></i> Download Raw CSV</a>
+                    </div>
+                    <!-- Download Card 2 -->
+                    <div class="dl-card">
+                        <div class="dl-icon icon-xlsx"><i class="fa-solid fa-file-excel"></i></div>
+                        <h3>Polished Revenue Tracker</h3>
+                        <p class="dl-meta">File Name: <strong>revenue_pipeline_tracker.xlsx</strong></p>
+                        <p class="dl-desc">Cleaned Excel database featuring an executive dashboard, week-by-week performance tables driven entirely by Excel formulas, and native charts.</p>
+                        <a href="reports/revenue_pipeline_tracker.xlsx" class="dl-button btn-xlsx" download><i class="fa-solid fa-arrow-down-to-line"></i> Download Excel Tracker</a>
+                    </div>
+                    <!-- Download Card 3 -->
+                    <div class="dl-card">
+                        <div class="dl-icon icon-pptx"><i class="fa-solid fa-file-powerpoint"></i></div>
+                        <h3>Leadership Summary Deck</h3>
+                        <p class="dl-meta">File Name: <strong>leadership_presentation.pptx</strong></p>
+                        <p class="dl-desc">Professional 16:9 widescreen PowerPoint deck generated programmatically, summarizing the analysis, process gaps, and ROI of automations.</p>
+                        <a href="reports/leadership_presentation.pptx" class="dl-button btn-pptx" download><i class="fa-solid fa-arrow-down-to-line"></i> Download PowerPoint</a>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

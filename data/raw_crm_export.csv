@@ -1,0 +1,566 @@
+Lead_ID,Lead_Date,Company_Name,Contact_Email,Lead_Source,Segment,Trial_Activated,Trial_Date,Converted,Conversion_Date,MRR
+LD-1452,04/04/2026,Zenith Solutions,info@zenithsolutions.com,Cold Outreach,SMB,Yes,06/04/2026,Yes,15/04/2026,283
+LD-1131,12/05/2026,Alpha Co,info@alphaco.com,GOOGLE,Mid-Market,Yes,20/05/2026,No,,
+LD-1478,2026-05-17 15:03:00, Stellar Global  ,info@stellarglobal.com,GOOGLE,Mid-Market,Yes,2026-05-21 11:03:00,No,,
+LD-1177,2026-03-18 14:48:00, Omega Co  ,info@omegaco.com,Cold Outreach,SMB,Yes,2026-03-23 10:24:00,No,,
+LD-1504,2026-04-28,Core Group,info@coregroup.com,google,Enterprise,Yes,2026-05-04,Yes,2026-05-21,0
+LD-1270,2026-03-19,Shift Inc,info@shiftinc.com,LinkedIn Ads,Enterprise,Yes,2026-03-22,No,,
+LD-1540,2026-04-08 15:45:00,Flux Corp,info@fluxcorp.com,Cold Outreach,Mid-Market,No,,No,,
+LD-1314,2026-03-04,Summit LLC,info@summitllc.com,LinkedIn,SMB,Yes,2026-03-13,No,,
+LD-1150,2026-03-11,Flux Corp,info@fluxcorp.com,,Enterprise,Yes,2026-03-18,No,,
+LD-1273,04/03/2026,Stellar Solutions,info@stellarsolutions.com,null,Mid-Market,Yes,05/03/2026,No,,
+LD-1126,2026-05-04,Flux Corp,info@fluxcorp.com,Referral,SMB,Yes,2026-05-06,No,,
+LD-1040,2026-03-01,Pulse Solutions,info@pulsesolutions.com,Webinar,Mid-Market,Yes,2026-03-03,No,,
+LD-1404,21/05/2026,Beacon Global,info@beaconglobal.com,Referral,Mid-Market,Yes,23/05/2026,No,,
+LD-1264,2026-05-03,Stellar Co (Duplicate Entry),info@stellarco.com,referral,Mid-Market,No,,No,,
+LD-1434,2026-03-24,Synergy Technologies,info@synergytechnologies.com,LinkedIn Ads,SMB,Yes,2026-03-28,No,,
+LD-1519,2026-05-22,Sovereign Partners,info@sovereignpartners.com,LinkedIn Ads,Mid-Market,No,,No,,
+LD-1258,2026-03-05,Flux Corp,info@fluxcorp.com,,SMB,Yes,2026-03-15,No,,
+LD-1449,2026-05-02 16:19:00,Acme LLC,info@acmellc.com,,SMB,Yes,2026-05-06 15:56:00,No,,
+LD-1205,2026-03-03,Acme Solutions,,LinkedIn Ads,Enterprise,Yes,2026-03-04,No,,
+LD-1147,2026-03-03,Sovereign Global,info@sovereignglobal.com,Referral,SMB,No,,No,,
+LD-1049,05/04/2026,Cloud Partners,info@cloudpartners.com,google,Enterprise,Yes,10/04/2026,No,,
+LD-1268,2026-04-26,Core Corp (Duplicate Entry),info@corecorp.com,GOOGLE,Mid-Market,Yes,2026-05-03,Yes,2026-05-11,605
+LD-1080,2026-05-03, Omega Global  ,info@omegaglobal.com,linkedin,Mid-Market,Yes,2026-05-10,No,,
+LD-1364,2026-05-11,Nova Technologies,info@novatechnologies.com,Webinar,Enterprise,Yes,2026-05-17,No,,
+LD-1418,2026-04-09,Omega Group,info@omegagroup.com,null,SMB,Yes,2026-04-12,Yes,2026-04-29,186
+LD-1007,2026-05-22,Summit Global,info@summitglobal.com,Referral,Mid-Market,No,,No,,
+LD-1298,2026-04-20,Omega LLC,info@omegallc.com,GOOGLE,Mid-Market,Yes,2026-04-23,Yes,2026-05-05,1162
+LD-1467,17/05/2026,Acme Solutions,info@acmesolutions.com,google,Mid-Market,No,,No,,
+LD-1135,2026-04-13 10:32:00,Summit Inc,info@summitinc.com,referral,Enterprise,Yes,2026-04-16 14:23:00,No,,
+LD-1220,2026-05-23 14:16:00,Zenith Partners,info@zenithpartners.com,LinkedIn Ads,SMB,Yes,2026-06-01 16:11:00,No,,
+LD-1511,12/03/2026,Core Co,info@coreco.com,,Mid-Market,No,,No,,
+LD-1127,2026-05-13,Omega LLC,info@omegallc.com,LinkedIn Ads,SMB,No,,No,,
+LD-1066,27/04/2026,Nova Technologies,info@novatechnologies.com,linkedin,Enterprise,Yes,05/05/2026,No,,
+LD-1145,2026-03-12 12:52:00,Alpha Co,info@alphaco.com,Referral,Enterprise,Yes,2026-03-19 10:23:00,Yes,2026-04-03 10:53:00,5746
+LD-1003,2026-04-27,Acme Group,info@acmegroup.com,GOOGLE,SMB,No,,No,,
+LD-1034,2026-03-19,Apex Technologies,info@apextechnologies.com,Google,Mid-Market,Yes,2026-03-23,No,,
+LD-1319,2026-05-09,Shift Solutions,info@shiftsolutions.com,Cold Outreach,Mid-Market,No,,No,,
+LD-1223,2026-04-05,Stellar Inc,info@stellarinc.com,Referral,SMB,Yes,2026-04-07,No,,
+LD-1115,2026-03-15 17:46:00,Quantum LLC,info@quantumllc.com,LinkedIn Ads,Mid-Market,Yes,2026-03-17 14:27:00,No,,
+LD-1438,2026-03-21,Beacon Partners,info@beaconpartners.com,null,Mid-Market,Yes,2026-03-27,No,,
+LD-1285,2026-05-06 15:04:00,Alpha Technologies,info@alphatechnologies.com,google,Enterprise,Yes,2026-05-12 12:18:00,No,,
+LD-1288,01/03/2026,Omega Technologies,info@omegatechnologies.com,LinkedIn,Mid-Market,Yes,02/03/2026,No,,
+LD-1470,14/03/2026,Shift Co,info@shiftco.com,Referral,SMB,Yes,17/03/2026,No,,
+LD-1105,2026-04-05,Flux Solutions,info@fluxsolutions.com,LinkedIn Ads,SMB,No,,No,,
+LD-1155,2026-04-25 16:57:00,Omega Co,info@omegaco.com,referral,Mid-Market,No,,No,,
+LD-1522,2026-04-19,Vortex Technologies,info@vortextechnologies.com,Google,Mid-Market,Yes,2026-04-27,No,,
+LD-1279,24/05/2026,Vortex Inc,info@vortexinc.com,GOOGLE,Mid-Market,No,,No,,
+LD-1435,2026-04-17,Omega Technologies,info@omegatechnologies.com,cold outreach,Enterprise,Yes,2026-04-19,No,,
+LD-1479,2026-04-20 18:36:00,Cloud Corp,info@cloudcorp.com,Referral,SMB,Yes,2026-04-22 16:36:00,No,,
+LD-1237,2026-05-03,Quantum Partners,info@quantumpartners.com,Referral,Mid-Market,No,,No,,
+LD-1498,2026-04-22, Quantum Solutions  ,info@quantumsolutions.com,referral,Enterprise,Yes,2026-04-28,No,,
+LD-1241,26/04/2026,Nova LLC,info@novallc.com,linkedin,SMB,Yes,29/04/2026,No,,
+LD-1230,04/05/2026, Flux Inc  ,info@fluxinc.com,google,Mid-Market,Yes,14/05/2026,No,,
+LD-1261,2026-04-22 13:55:00,Sovereign Group,info@sovereigngroup.com,LinkedIn,Enterprise,Yes,2026-04-25 18:40:00,Yes,2026-05-13 15:28:00,3618
+LD-1266,2026-05-23,Beacon Corp,info@beaconcorp.com,LinkedIn Ads,Enterprise,No,,No,,
+LD-1170,2026-05-12, Acme Corp  ,info@acmecorp.com,cold outreach,Mid-Market,No,,No,,
+LD-1534,06/04/2026,Bold Group,info@boldgroup.com,null,SMB,Yes,08/04/2026,No,,
+LD-1238,18/04/2026,Core Partners,info@corepartners.com,Webinar,Enterprise,Yes,24/04/2026,No,,
+LD-1272,2026-04-14 14:50:00,Sovereign Solutions,info@sovereignsolutions.com,Cold Outreach,Enterprise,Yes,2026-04-24 13:49:00,No,,
+LD-1263,2026-04-11,Nova Partners,info@novapartners.com,google,Enterprise,Yes,2026-04-18,No,,
+LD-1358,2026-03-08 11:06:00,Helix Partners,info@helixpartners.com,GOOGLE,Enterprise,Yes,2026-03-14 18:01:00,No,,
+LD-1411,2026-04-03,Core Partners,info@corepartners.com,Referral,Mid-Market,Yes,2026-04-04,Yes,2026-04-22,1346
+LD-1466,2026-03-14,Vortex Inc,info@vortexinc.com,Webinar,Mid-Market,Yes,2026-03-24,Yes,2026-04-09,726
+LD-1316,2026-03-20, Acme LLC  ,info@acmellc.com,Webinar,Enterprise,Yes,2026-03-22,Yes,2026-04-01,5390
+LD-1017,2026-04-09,Flux Partners,info@fluxpartners.com,LinkedIn,SMB,Yes,2026-04-10,No,,
+LD-1512,2026-03-09,Sovereign Corp,info@sovereigncorp.com,Cold Outreach,Mid-Market,Yes,2026-03-13,No,,
+LD-1475,2026-04-03,Shift Solutions,info@shiftsolutions.com,google,Enterprise,Yes,2026-04-07,No,,
+LD-1518,2026-04-13,Shift Inc,info@shiftinc.com,LinkedIn Ads,Enterprise,Yes,2026-04-21,No,,
+LD-1517,02/04/2026,Stellar Technologies,info@stellartechnologies.com,Google,SMB,No,,No,,
+LD-1214,2026-05-22, Alpha Co  ,info@alphaco.com,LinkedIn,SMB,Yes,2026-06-01,No,,
+LD-1064,2026-03-24,Flux Technologies,info@fluxtechnologies.com,null,Mid-Market,Yes,2026-04-02,No,,
+LD-1058,2026-03-21 10:37:00,Acme Technologies,info@acmetechnologies.com,Referral,Mid-Market,No,,No,,
+LD-1115,2026-03-15 17:46:00,Quantum LLC (Duplicate Entry),info@quantumllc.com,LinkedIn Ads,Mid-Market,Yes,2026-03-17 14:27:00,No,,
+LD-1317,2026-03-11,Vortex Technologies,info@vortextechnologies.com,Webinar,Mid-Market,Yes,2026-03-20,No,,
+LD-1379,2026-03-10,Summit Global,,linkedin,Enterprise,Yes,2026-03-13,No,,
+LD-1068,2026-05-08 11:12:00,Quantum Partners,info@quantumpartners.com,,Enterprise,Yes,2026-05-10 12:18:00,Yes,2026-05-20 13:00:00,7375
+LD-1469,2026-03-10 17:06:00,Vortex Solutions,info@vortexsolutions.com,Cold Outreach,Enterprise,Yes,2026-03-13 17:47:00,No,,
+LD-1005,2026-05-08,Omega Corp,info@omegacorp.com,cold outreach,Mid-Market,Yes,2026-05-10,Yes,2026-05-22,1291
+LD-1182,2026-04-17,Vortex LLC,info@vortexllc.com,null,Enterprise,Yes,2026-04-27,No,,
+LD-1340,2026-04-12,Shift Technologies,info@shifttechnologies.com,Google,Enterprise,Yes,2026-04-22,Yes,2026-05-03,7099
+LD-1111,2026-04-16,Vortex Partners,info@vortexpartners.com,Google,Enterprise,No,,No,,
+LD-1006,2026-04-07 12:55:00,Vortex LLC,info@vortexllc.com,LinkedIn Ads,SMB,Yes,2026-04-11 13:44:00,No,,
+LD-1194,2026-03-24 13:56:00,Apex Inc,info@apexinc.com,LinkedIn Ads,Mid-Market,Yes,2026-04-02 17:31:00,No,,
+LD-1403,2026-04-16, Alpha Inc  ,info@alphainc.com,google,Enterprise,No,,No,,
+LD-1162,2026-03-28 13:44:00,Zenith Solutions,info@zenithsolutions.com,referral,SMB,No,,No,,
+LD-1402,19/03/2026, Zenith Co  ,info@zenithco.com,LinkedIn,SMB,Yes,23/03/2026,Yes,03/04/2026,232
+LD-1140,2026-03-10,Vortex Global,info@vortexglobal.com,Cold Outreach,SMB,No,,No,,
+LD-1399,03/03/2026,Acme LLC,info@acmellc.com,Google,Enterprise,Yes,12/03/2026,No,,
+LD-1075,2026-03-10,Beacon Solutions,info@beaconsolutions.com,Webinar,SMB,No,,No,,
+LD-1217,2026-03-31,Stellar LLC,info@stellarllc.com,linkedin,Mid-Market,Yes,2026-04-08,No,,
+LD-1260,2026-04-07,Beacon Global,info@beaconglobal.com,google,SMB,No,,No,,
+LD-1210,2026-05-16,Apex Solutions,info@apexsolutions.com,LinkedIn,Enterprise,Yes,2026-05-17,Yes,2026-05-31,4918
+LD-1447,2026-05-12,Pulse Technologies,info@pulsetechnologies.com,LinkedIn,SMB,Yes,2026-05-18,No,,
+LD-1426,2026-05-12,Synergy Co,info@synergyco.com,referral,Enterprise,No,,No,,
+LD-1186,2026-05-01,Core Group,info@coregroup.com,Cold Outreach,Mid-Market,No,,No,,
+LD-1218,30/04/2026,Core Solutions,info@coresolutions.com,cold outreach,SMB,No,,No,,
+LD-1385,2026-03-15, Pulse Technologies  ,info@pulsetechnologies.com,,Mid-Market,Yes,2026-03-24,No,,
+LD-1124,2026-04-09, Omega Inc  ,info@omegainc.com,LinkedIn,SMB,No,,No,,
+LD-1352,2026-04-07,Pulse Partners,info@pulsepartners.com,referral,Mid-Market,Yes,2026-04-08,No,,
+LD-1076,2026-03-19,Summit Technologies,info@summittechnologies.com,linkedin,Mid-Market,Yes,2026-03-24,No,,
+LD-1028,2026-03-27,Core Solutions,info@coresolutions.com,Webinar,Mid-Market,Yes,2026-03-29,Yes,2026-04-06,575
+LD-1378,26/04/2026,Flux Global,info@fluxglobal.com,null,SMB,Yes,29/04/2026,No,,
+LD-1338,2026-04-15,Summit Global,info@summitglobal.com,GOOGLE,Enterprise,Yes,2026-04-24,No,,
+LD-1489,2026-05-05 10:57:00,Core Partners,info@corepartners.com,GOOGLE,SMB,Yes,2026-05-13 17:59:00,No,,
+LD-1232,07/04/2026,Nova Corp,info@novacorp.com,,Enterprise,Yes,14/04/2026,No,,
+LD-1433,2026-03-23,Vortex Global,info@vortexglobal.com,Google,Enterprise,Yes,2026-04-02,Yes,2026-04-18,5127
+LD-1405,2026-04-18 12:33:00,Omega Co,info@omegaco.com,,Mid-Market,No,,No,,
+LD-1492,2026-04-05,Core LLC,info@corellc.com,Referral,Enterprise,No,,No,,
+LD-1148,2026-03-31,Apex Solutions,info@apexsolutions.com,referral,SMB,Yes,2026-04-08,No,,
+LD-1079,2026-04-25,Zenith Corp,info@zenithcorp.com,LinkedIn Ads,Enterprise,Yes,2026-04-28,No,,
+LD-1082,2026-05-20,Apex Solutions,info@apexsolutions.com,linkedin,Mid-Market,No,,No,,
+LD-1292,2026-05-14,Vortex Group,info@vortexgroup.com,google,Enterprise,Yes,2026-05-18,No,,
+LD-1102,2026-04-03,Flux Corp,info@fluxcorp.com,cold outreach,Enterprise,Yes,2026-04-13,Yes,2026-04-20,6803
+LD-1267,2026-03-22,Stellar Solutions,info@stellarsolutions.com,google,SMB,Yes,2026-03-24,Yes,2026-04-05,232
+LD-1425,15/03/2026,Beacon Global,info@beaconglobal.com,null,Mid-Market,No,,No,,
+LD-1144,2026-04-02,Zenith Co,info@zenithco.com,Cold Outreach,SMB,Yes,2026-04-05,Yes,2026-04-14,211
+LD-1187,22/05/2026,Beacon Partners,info@beaconpartners.com,Cold Outreach,Mid-Market,Yes,27/05/2026,No,,
+LD-1507,2026-05-03,Acme Partners,info@acmepartners.com,referral,Mid-Market,Yes,2026-05-05,No,,
+LD-1520,2026-04-22 09:53:00,Cloud Technologies,info@cloudtechnologies.com,Cold Outreach,Enterprise,Yes,2026-05-02 14:51:00,No,,
+LD-1343,2026-03-21,Nova Group,info@novagroup.com,Referral,Mid-Market,No,,No,,
+LD-1322,2026-05-20,Bold Technologies,info@boldtechnologies.com,,SMB,Yes,2026-05-29,No,,
+LD-1390,2026-03-12,Alpha LLC,info@alphallc.com,referral,SMB,Yes,2026-03-15,No,,
+LD-1505,2026-05-18 15:35:00,Omega Inc,info@omegainc.com,cold outreach,Enterprise,No,,No,,
+LD-1060,12/05/2026,Flux Global,info@fluxglobal.com,Cold Outreach,Enterprise,Yes,19/05/2026,No,,
+LD-1281,2026-03-04,Helix Technologies,info@helixtechnologies.com,cold outreach,Enterprise,Yes,2026-03-12,No,,
+LD-1015,2026-03-11,Zenith Corp,info@zenithcorp.com,GOOGLE,SMB,No,,No,,
+LD-1416,2026-04-18,Core LLC,info@corellc.com,Webinar,Enterprise,Yes,2026-04-27,No,,
+LD-1457,2026-04-30,Stellar Co,info@stellarco.com,null,Enterprise,Yes,2026-05-05,No,,
+LD-1016,2026-05-10,Cloud LLC,info@cloudllc.com,,Enterprise,No,,No,,
+LD-1525,2026-05-07,Core Group,info@coregroup.com,Cold Outreach,Enterprise,No,,No,,
+LD-1243,2026-05-08,Nova Corp,info@novacorp.com,LinkedIn Ads,SMB,Yes,2026-05-09,No,,
+LD-1413,09/05/2026,Helix Global,info@helixglobal.com,null,Enterprise,Yes,17/05/2026,No,,
+LD-1282,2026-03-08,Shift Group,info@shiftgroup.com,google,Enterprise,No,,No,,
+LD-1239,2026-03-26,Summit LLC,info@summitllc.com,null,Enterprise,Yes,2026-04-05,No,,
+LD-1257,04/04/2026,Flux Global,,null,Mid-Market,Yes,11/04/2026,Yes,23/04/2026,804
+LD-1204,2026-03-08,Cloud LLC,info@cloudllc.com,referral,Enterprise,No,,No,,
+LD-1118,2026-04-24 09:18:00,Bold Technologies,info@boldtechnologies.com,LinkedIn,SMB,No,,No,,
+LD-1035,15/04/2026,Helix Group,info@helixgroup.com,GOOGLE,SMB,No,,No,,
+LD-1096,2026-03-26 16:06:00,Synergy LLC,info@synergyllc.com,null,Mid-Market,Yes,2026-04-02 13:00:00,No,,
+LD-1533,2026-03-19 18:16:00,Flux LLC,info@fluxllc.com,LinkedIn Ads,Mid-Market,Yes,2026-03-20 10:30:00,Yes,2026-03-16,674
+LD-1325,2026-04-12,Apex Partners,info@apexpartners.com,Google,Mid-Market,No,,No,,
+LD-1179,2026-03-26, Omega Global  ,,null,Mid-Market,No,,No,,
+LD-1429,2026-03-10,Summit Partners,info@summitpartners.com,cold outreach,Mid-Market,Yes,2026-03-14,No,,
+LD-1415,2026-03-11,Pulse LLC,,null,SMB,Yes,2026-03-13,No,,
+LD-1183,23/05/2026,Shift Solutions,info@shiftsolutions.com,GOOGLE,Enterprise,Yes,02/06/2026,No,,
+LD-1209,2026-04-05,Vortex Inc,info@vortexinc.com,,SMB,Yes,2026-04-07,Yes,2026-04-13,214
+LD-1374,24/04/2026, Cloud Corp  ,info@cloudcorp.com,Webinar,SMB,Yes,27/04/2026,No,,
+LD-1121,2026-03-01, Sovereign LLC  ,info@sovereignllc.com,Google,SMB,No,,No,,
+LD-1168,2026-03-29,Cloud Technologies,info@cloudtechnologies.com,Webinar,Enterprise,Yes,2026-04-03,No,,
+LD-1287,09/05/2026, Synergy Group  ,info@synergygroup.com,LinkedIn,Enterprise,Yes,10/05/2026,No,,
+LD-1097,2026-03-07 16:53:00,Stellar Solutions,info@stellarsolutions.com,Webinar,SMB,Yes,2026-03-10 10:57:00,No,,
+LD-1265,2026-03-07,Alpha Inc,info@alphainc.com,referral,Mid-Market,Yes,2026-03-14,Yes,2026-03-23,1403
+LD-1362,2026-04-30 11:04:00,Zenith Co,info@zenithco.com,Google,Enterprise,Yes,2026-05-07 15:52:00,Yes,2026-05-26 16:51:00,7694
+LD-1254,2026-05-02,Summit Co,info@summitco.com,LinkedIn Ads,SMB,Yes,2026-05-06,No,,
+LD-1301,2026-03-04 13:03:00,Zenith Global,info@zenithglobal.com,LinkedIn,SMB,Yes,2026-03-08 13:34:00,No,,
+LD-1211,2026-05-13,Bold Co,info@boldco.com,Webinar,Enterprise,Yes,2026-05-18,Yes,2026-05-28,6499
+LD-1160,2026-04-19 09:38:00,Sovereign Partners,info@sovereignpartners.com,,SMB,Yes,2026-04-28 14:25:00,No,,
+LD-1493,2026-05-18 12:26:00,Synergy Group,info@synergygroup.com,cold outreach,Mid-Market,Yes,2026-05-21 12:41:00,Yes,2026-06-01 11:19:00,1205
+LD-1294,2026-04-11,Synergy Co,,linkedin,Mid-Market,No,,No,,
+LD-1163,2026-04-26 14:42:00,Flux Corp,info@fluxcorp.com,linkedin,SMB,No,,No,,
+LD-1051,2026-04-23,Helix LLC,info@helixllc.com,null,SMB,No,,No,,
+LD-1289,19/03/2026,Nova Inc,info@novainc.com,Cold Outreach,Mid-Market,No,,No,,
+LD-1084,2026-03-15,Vortex Group,info@vortexgroup.com,Cold Outreach,Enterprise,Yes,2026-03-23,No,,
+LD-1361,2026-04-14,Omega Group,info@omegagroup.com,cold outreach,SMB,Yes,2026-04-17,No,,
+LD-1253,2026-05-05,Bold Group,info@boldgroup.com,referral,Enterprise,Yes,2026-05-08,No,,
+LD-1114,10/05/2026,Omega Global,info@omegaglobal.com,Referral,SMB,No,,No,,
+LD-1179,2026-03-26, Omega Global  ,,null,Mid-Market,No,,No,,
+LD-1311,2026-03-07,Helix Group,info@helixgroup.com,Referral,Mid-Market,Yes,2026-03-09,No,,
+LD-1497,2026-05-23,Omega Partners,info@omegapartners.com,LinkedIn,SMB,Yes,2026-05-24,No,,
+LD-1453,26/04/2026,Synergy Corp,info@synergycorp.com,LinkedIn Ads,Mid-Market,Yes,04/05/2026,No,,
+LD-1499,2026-04-01,Apex LLC,info@apexllc.com,null,Enterprise,Yes,2026-04-10,No,,
+LD-1303,2026-04-15 09:45:00,Flux Group,info@fluxgroup.com,,Mid-Market,Yes,2026-04-18 16:02:00,Yes,2026-04-30 18:14:00,520
+LD-1191,2026-05-15,Apex Global,info@apexglobal.com,google,Mid-Market,Yes,2026-05-23,Yes,2026-06-01,505
+LD-1192,2026-05-10 11:26:00,Zenith Partners,info@zenithpartners.com,linkedin,Mid-Market,Yes,2026-05-11 10:41:00,No,,
+LD-1138,2026-04-18,Core Group,info@coregroup.com,null,Enterprise,No,,No,,
+LD-1366,2026-04-27,Synergy Inc,info@synergyinc.com,,Mid-Market,Yes,2026-05-03,No,,
+LD-1027,2026-05-16,Synergy LLC,info@synergyllc.com,LinkedIn,Enterprise,Yes,2026-05-26,Yes,2026-06-10,5136
+LD-1189,2026-05-09,Omega Co,info@omegaco.com,linkedin,SMB,Yes,2026-05-11,No,,
+LD-1117,2026-05-11,Pulse Global,info@pulseglobal.com,LinkedIn Ads,Enterprise,No,,No,,
+LD-1300,2026-04-15,Zenith Co,info@zenithco.com,Referral,Mid-Market,Yes,2026-04-21,No,,
+LD-1086,05/04/2026,Helix Co,info@helixco.com,Google,Mid-Market,No,,No,,
+LD-1065,2026-03-11,Helix Partners,info@helixpartners.com,referral,Enterprise,No,,No,,
+LD-1424,2026-05-11 14:22:00,Beacon Solutions,info@beaconsolutions.com,Referral,Enterprise,Yes,2026-05-14 15:32:00,Yes,2026-05-21 17:18:00,5785
+LD-1222,2026-03-08,Bold Partners,,Cold Outreach,Enterprise,Yes,2026-03-09,No,,
+LD-1549,2026-04-12,Stellar Technologies,info@stellartechnologies.com,cold outreach,Enterprise,Yes,2026-04-22,Yes,2026-05-12,7736
+LD-1094,2026-03-24,Nova LLC,info@novallc.com,cold outreach,SMB,Yes,2026-03-29,No,,
+LD-1454,2026-04-29, Apex Co  ,info@apexco.com,GOOGLE,SMB,Yes,2026-05-06,Yes,2026-05-26,146
+LD-1445,2026-04-19,Synergy Technologies,info@synergytechnologies.com,Cold Outreach,SMB,Yes,2026-04-25,No,,
+LD-1012,2026-03-02,Vortex Global,info@vortexglobal.com,LinkedIn Ads,SMB,Yes,2026-03-05,No,,
+LD-1278,2026-03-20,Omega Corp,info@omegacorp.com,LinkedIn,SMB,Yes,2026-03-27,Yes,2026-04-02,179
+LD-1041,2026-04-08,Helix Co,info@helixco.com,GOOGLE,SMB,Yes,2026-04-15,No,,
+LD-1360,02/03/2026,Cloud Solutions,info@cloudsolutions.com,LinkedIn Ads,Enterprise,Yes,12/03/2026,Yes,24/03/2026,6947
+LD-1420,2026-04-30 15:05:00,Nova Technologies,info@novatechnologies.com,Google,Enterprise,Yes,2026-05-07 18:41:00,No,,
+LD-1545,2026-04-28 18:59:00,Helix Group,info@helixgroup.com,referral,Mid-Market,Yes,2026-05-01 15:38:00,Yes,2026-05-21 12:45:00,1013
+LD-1176,2026-03-31, Flux Inc  ,info@fluxinc.com,Webinar,Enterprise,Yes,2026-04-09,Yes,2026-04-17,6530
+LD-1464,2026-03-03,Flux Solutions,info@fluxsolutions.com,Cold Outreach,Mid-Market,Yes,2026-03-11,No,,
+LD-1345,2026-04-01,Flux Technologies,info@fluxtechnologies.com,cold outreach,Mid-Market,Yes,2026-04-02,Yes,2026-04-16,966
+LD-1215,2026-03-10,Shift Global,info@shiftglobal.com,LinkedIn Ads,Mid-Market,No,,No,,
+LD-1014,2026-03-01,Zenith Inc,info@zenithinc.com,,Mid-Market,Yes,2026-03-05,No,,
+LD-1283,2026-03-15, Cloud Inc  ,info@cloudinc.com,LinkedIn,SMB,Yes,2026-03-22,No,,
+LD-1510,2026-03-21,Bold Global,info@boldglobal.com,cold outreach,Mid-Market,No,,No,,
+LD-1396,2026-05-14,Shift Co,info@shiftco.com,GOOGLE,SMB,Yes,2026-05-18,No,,
+LD-1388,2026-05-11,Synergy Technologies,info@synergytechnologies.com,Referral,Mid-Market,Yes,2026-05-18,No,,
+LD-1246,2026-03-14,Nova Corp,info@novacorp.com,LinkedIn Ads,Mid-Market,Yes,2026-03-18,No,,
+LD-1282,2026-03-08,Shift Group,info@shiftgroup.com,google,Enterprise,No,,No,,
+LD-1471,2026-05-04,Summit Global,info@summitglobal.com,LinkedIn Ads,Mid-Market,Yes,2026-05-10,No,,
+LD-1468,2026-03-08,Helix Co,info@helixco.com,cold outreach,Mid-Market,Yes,2026-03-10,No,,
+LD-1139,2026-03-12,Helix Global,info@helixglobal.com,GOOGLE,SMB,Yes,2026-03-20,Yes,2026-03-29,139
+LD-1195,2026-03-18 16:17:00,Quantum Corp,info@quantumcorp.com,Webinar,Mid-Market,No,,No,,
+LD-1093,2026-03-13, Stellar Inc  ,info@stellarinc.com,linkedin,Mid-Market,Yes,2026-03-16,Yes,2026-04-03,1079
+LD-1159,2026-04-21,Summit Inc,info@summitinc.com,,Mid-Market,Yes,2026-04-23,Yes,2026-05-09,870
+LD-1025,2026-05-11,Zenith Group,info@zenithgroup.com,Google,Enterprise,No,,No,,
+LD-1440,2026-04-11,Zenith Partners,info@zenithpartners.com,linkedin,Mid-Market,Yes,2026-04-14,No,,
+LD-1531,2026-05-16 16:39:00,Flux Technologies,info@fluxtechnologies.com,,Enterprise,No,,No,,
+LD-1299,2026-04-07, Pulse Partners  ,info@pulsepartners.com,GOOGLE,Mid-Market,Yes,2026-04-16,Yes,2026-04-03,891
+LD-1320,2026-04-30,Synergy Partners,info@synergypartners.com,null,SMB,Yes,2026-05-09,No,,
+LD-1143,2026-04-30 12:23:00,Shift Partners,info@shiftpartners.com,Referral,Enterprise,Yes,2026-05-03 12:51:00,No,,
+LD-1382,2026-05-06,Cloud Group,info@cloudgroup.com,google,Mid-Market,Yes,2026-05-10,No,,
+LD-1108,2026-05-10,Quantum Solutions,info@quantumsolutions.com,cold outreach,SMB,Yes,2026-05-13,No,,
+LD-1090,2026-04-26,Alpha Inc,info@alphainc.com,Webinar,SMB,Yes,2026-05-01,No,,
+LD-1410,2026-05-01,Helix Group,info@helixgroup.com,GOOGLE,Enterprise,No,,No,,
+LD-1455,2026-03-25 13:52:00,Omega Inc,info@omegainc.com,LinkedIn,Mid-Market,No,,No,,
+LD-1212,2026-05-11,Flux LLC,info@fluxllc.com,Referral,Mid-Market,Yes,2026-05-18,Yes,2026-06-07,746
+LD-1161,2026-04-05,Vortex Inc,info@vortexinc.com,Referral,Enterprise,Yes,2026-04-10,No,,
+LD-1023,09/05/2026,Nova Solutions,info@novasolutions.com,LinkedIn,Mid-Market,No,,No,,
+LD-1462,2026-04-02 16:45:00,Alpha Global,info@alphaglobal.com,LinkedIn,Enterprise,Yes,2026-04-08 14:46:00,No,,
+LD-1128,2026-05-19,Flux Corp,info@fluxcorp.com,Referral,Enterprise,Yes,2026-05-21,No,,
+LD-1348,2026-05-21,Pulse Inc,,google,Enterprise,No,,No,,
+LD-1419,2026-05-10,Apex Group,info@apexgroup.com,,SMB,No,,No,,
+LD-1153,2026-03-18,Alpha Inc,,LinkedIn,SMB,Yes,2026-03-23,No,,
+LD-1308,2026-05-13,Shift Inc,info@shiftinc.com,,Enterprise,Yes,2026-05-23,Yes,2026-06-12,4152
+LD-1379,2026-03-10,Summit Global (Duplicate Entry),,linkedin,Enterprise,Yes,2026-03-13,No,,
+LD-1157,2026-04-27,Helix Group,info@helixgroup.com,Google,Enterprise,No,,No,,
+LD-1484,20/03/2026,Nova Corp,info@novacorp.com,cold outreach,SMB,No,,No,,
+LD-1276,2026-03-10,Nova Inc,,Google,Mid-Market,Yes,2026-03-19,No,,
+LD-1106,2026-04-17,Flux Inc,info@fluxinc.com,google,Mid-Market,Yes,2026-04-21,No,,
+LD-1383,2026-04-12,Quantum Global,info@quantumglobal.com,,Enterprise,Yes,2026-04-18,No,,
+LD-1134,2026-05-13,Core Partners,info@corepartners.com,referral,SMB,No,,No,,
+LD-1515,2026-05-03,Summit Solutions,info@summitsolutions.com,Google,SMB,Yes,2026-05-05,No,,
+LD-1164,2026-05-21,Flux Global,info@fluxglobal.com,,SMB,Yes,2026-05-29,Yes,2026-06-14,219
+LD-1312,2026-05-13,Synergy Group,info@synergygroup.com,Google,Mid-Market,Yes,2026-05-18,No,,
+LD-1441,21/05/2026,Core LLC,info@corellc.com,google,SMB,Yes,25/05/2026,No,,
+LD-1333,2026-03-29,Stellar Technologies,info@stellartechnologies.com,LinkedIn Ads,Mid-Market,Yes,2026-04-06,No,,
+LD-1249,2026-05-20, Helix LLC  ,info@helixllc.com,LinkedIn,Mid-Market,Yes,2026-05-27,Yes,2026-06-07,710
+LD-1122,2026-03-28,Alpha Co,info@alphaco.com,LinkedIn Ads,Enterprise,Yes,2026-03-29,Yes,2026-03-21,3668
+LD-1198,2026-04-08,Shift Inc,info@shiftinc.com,LinkedIn,SMB,No,,No,,
+LD-1203,2026-03-20,Cloud Partners,info@cloudpartners.com,cold outreach,Mid-Market,Yes,2026-03-29,No,,
+LD-1387,2026-03-14,Helix Corp,info@helixcorp.com,referral,Enterprise,Yes,2026-03-16,Yes,2026-03-26,5063
+LD-1178,2026-05-10,Bold Corp,info@boldcorp.com,LinkedIn Ads,Mid-Market,Yes,2026-05-16,No,,
+LD-1107,2026-05-16 09:50:00,Core Solutions,info@coresolutions.com,LinkedIn,SMB,No,,No,,
+LD-1329,2026-03-04,Quantum Inc,info@quantuminc.com,LinkedIn Ads,Enterprise,Yes,2026-03-10,No,,
+LD-1228,2026-03-23 14:01:00,Quantum Group,info@quantumgroup.com,Referral,SMB,Yes,2026-04-02 12:36:00,No,,
+LD-1152,2026-04-12,Flux Global,info@fluxglobal.com,,Enterprise,Yes,2026-04-20,No,,
+LD-1286,08/04/2026,Synergy Partners,info@synergypartners.com,,SMB,No,,No,,
+LD-1181,2026-04-08,Cloud Global,info@cloudglobal.com,linkedin,Mid-Market,No,,No,,
+LD-1046,14/03/2026,Synergy Group,info@synergygroup.com,referral,SMB,Yes,16/03/2026,No,,
+LD-1432,2026-05-13 16:11:00,Cloud Technologies,info@cloudtechnologies.com,GOOGLE,SMB,Yes,2026-05-20 16:34:00,Yes,2026-06-05 15:55:00,275
+LD-1259,2026-05-18,Summit Group,info@summitgroup.com,,SMB,Yes,2026-05-27,Yes,2026-06-06,182
+LD-1004,2026-04-13,Omega Corp,info@omegacorp.com,linkedin,SMB,No,,No,,
+LD-1391,2026-05-09,Sovereign Technologies,info@sovereigntechnologies.com,,Enterprise,Yes,2026-05-10,No,,
+LD-1347,2026-03-30,Sovereign Solutions,info@sovereignsolutions.com,GOOGLE,SMB,Yes,2026-03-31,No,,
+LD-1548,09/05/2026,Stellar Inc,info@stellarinc.com,Google,Mid-Market,Yes,17/05/2026,No,,
+LD-1081,2026-03-01,Pulse Partners,info@pulsepartners.com,LinkedIn Ads,Enterprise,No,,No,,
+LD-1480,2026-05-10,Nova LLC,info@novallc.com,GOOGLE,SMB,Yes,2026-05-14,No,,
+LD-1052,2026-05-13,Acme Co,info@acmeco.com,Referral,Enterprise,No,,No,,
+LD-1069,2026-03-17,Apex Global,info@apexglobal.com,Webinar,Mid-Market,Yes,2026-03-18,No,,
+LD-1356,2026-03-22,Alpha Technologies,info@alphatechnologies.com,LinkedIn Ads,SMB,Yes,2026-03-29,No,,
+LD-1495,2026-04-22 13:28:00,Beacon Group,info@beacongroup.com,GOOGLE,SMB,No,,No,,
+LD-1529,2026-05-10,Sovereign Technologies,info@sovereigntechnologies.com,linkedin,Enterprise,No,,No,,
+LD-1085,2026-04-01,Sovereign LLC,info@sovereignllc.com,null,SMB,No,,No,,
+LD-1190,2026-04-26,Zenith Solutions,info@zenithsolutions.com,Cold Outreach,Enterprise,Yes,2026-04-28,No,,
+LD-1087,2026-05-15,Zenith Group,info@zenithgroup.com,LinkedIn Ads,Enterprise,No,,No,,
+LD-1213,2026-03-29,Sovereign Partners,info@sovereignpartners.com,Referral,Enterprise,Yes,2026-04-05,Yes,2026-04-16,5705
+LD-1482,2026-04-16,Core Co,,linkedin,SMB,No,,No,,
+LD-1141,2026-05-19,Omega Group,info@omegagroup.com,,Enterprise,No,,No,,
+LD-1285,2026-05-06 15:04:00,Alpha Technologies,info@alphatechnologies.com,google,Enterprise,Yes,2026-05-12 12:18:00,No,,
+LD-1377,2026-04-18, Core Global  ,info@coreglobal.com,LinkedIn,Enterprise,No,,No,,
+LD-1136,2026-04-19,Core Inc,info@coreinc.com,google,Mid-Market,Yes,2026-04-26,Yes,2026-05-05,841
+LD-1302,08/03/2026,Synergy LLC,info@synergyllc.com,GOOGLE,SMB,Yes,14/03/2026,No,,
+LD-1306,2026-03-18 15:50:00,Zenith Co,info@zenithco.com,null,Enterprise,No,,No,,
+LD-1110,2026-03-31,Acme Group,info@acmegroup.com,Referral,Enterprise,Yes,2026-04-02,No,,
+LD-1165,2026-05-10,Nova Corp,info@novacorp.com,null,Mid-Market,Yes,2026-05-17,No,,
+LD-1071,2026-04-21,Shift Inc,info@shiftinc.com,linkedin,SMB,No,,No,,
+LD-1530,2026-05-09,Sovereign Inc,info@sovereigninc.com,google,Mid-Market,Yes,2026-05-16,No,,
+LD-1485,2026-04-06,Vortex Technologies,,LinkedIn,Enterprise,Yes,2026-04-10,No,,
+LD-1167,2026-05-10,Summit Group,info@summitgroup.com,Google,SMB,Yes,2026-05-15,Yes,2026-05-30,281
+LD-1371,27/04/2026,Sovereign LLC,info@sovereignllc.com,Cold Outreach,Mid-Market,No,,No,,
+LD-1349,2026-03-07,Helix Partners,info@helixpartners.com,referral,Enterprise,Yes,2026-03-08,No,,
+LD-1472,22/04/2026,Helix Co,info@helixco.com,LinkedIn,Mid-Market,No,,No,,
+LD-1397,2026-05-22,Flux Group,info@fluxgroup.com,referral,Mid-Market,Yes,2026-05-27,No,,
+LD-1538,16/05/2026,Omega Co,info@omegaco.com,google,SMB,No,,No,,
+LD-1506,2026-03-21 11:49:00,Apex LLC,info@apexllc.com,referral,Mid-Market,Yes,2026-03-23 11:12:00,Yes,2026-04-05 09:29:00,1009
+LD-1407,2026-03-30,Core Corp,info@corecorp.com,LinkedIn,Enterprise,Yes,2026-04-06,Yes,2026-04-12,4047
+LD-1059,2026-03-26,Synergy Corp,info@synergycorp.com,Webinar,Enterprise,No,,No,,
+LD-1386,2026-03-06,Quantum Co,info@quantumco.com,GOOGLE,Enterprise,Yes,2026-03-08,Yes,2026-03-19,6475
+LD-1334,06/05/2026, Omega Corp  ,info@omegacorp.com,LinkedIn Ads,Enterprise,Yes,16/05/2026,Yes,24/05/2026,6946
+LD-1088,2026-04-18,Core Solutions,info@coresolutions.com,Referral,SMB,No,,No,,
+LD-1234,2026-05-05,Acme Corp,info@acmecorp.com,cold outreach,Mid-Market,No,,No,,
+LD-1050,2026-05-09,Sovereign Solutions,info@sovereignsolutions.com,LinkedIn,SMB,Yes,2026-05-15,No,,
+LD-1431,2026-05-18,Pulse Inc,info@pulseinc.com,LinkedIn Ads,Mid-Market,No,,No,,
+LD-1026,08/03/2026,Apex Inc,info@apexinc.com,Cold Outreach,SMB,Yes,17/03/2026,Yes,27/03/2026,117
+LD-1089,2026-04-22,Zenith LLC,info@zenithllc.com,Webinar,SMB,Yes,2026-04-23,Yes,2026-05-08,125
+LD-1008,2026-05-21,Synergy Co,info@synergyco.com,LinkedIn,SMB,No,,No,,
+LD-1496,2026-05-18,Bold Solutions,info@boldsolutions.com,Google,Mid-Market,Yes,2026-05-26,Yes,2026-06-15,-1500
+LD-1125,2026-04-07,Acme Partners,info@acmepartners.com,Referral,Enterprise,No,,No,,
+LD-1024,2026-03-22,Omega Technologies,info@omegatechnologies.com,linkedin,Mid-Market,No,,No,,
+LD-1242,2026-04-18,Bold Partners,info@boldpartners.com,null,Mid-Market,Yes,2026-04-24,No,,
+LD-1408,2026-05-13, Sovereign Global  ,info@sovereignglobal.com,Google,SMB,Yes,2026-05-16,No,,
+LD-1336,2026-03-31 18:25:00,Core Group,info@coregroup.com,linkedin,Mid-Market,No,,No,,
+LD-1073,2026-04-24,Bold Inc,info@boldinc.com,,SMB,Yes,2026-04-29,No,,
+LD-1326,2026-04-08,Zenith Corp,info@zenithcorp.com,linkedin,Enterprise,Yes,2026-04-14,Yes,2026-05-02,7955
+LD-1414,2026-04-18,Shift Corp,info@shiftcorp.com,,SMB,No,,No,,
+LD-1120,2026-05-11 18:39:00,Pulse Inc,info@pulseinc.com,null,Mid-Market,Yes,2026-05-16 13:58:00,No,,
+LD-1297,2026-05-22,Sovereign Corp,info@sovereigncorp.com,LinkedIn Ads,SMB,Yes,2026-05-30,Yes,2026-06-17,285
+LD-1406,2026-03-01,Sovereign Partners,info@sovereignpartners.com,Webinar,Mid-Market,Yes,2026-03-04,Yes,2026-03-12,1176
+LD-1376,2026-05-22,Synergy Global,info@synergyglobal.com,linkedin,Enterprise,No,,No,,
+LD-1235,2026-03-02,Omega Corp,info@omegacorp.com,LinkedIn,Enterprise,Yes,2026-03-09,Yes,2026-02-27,5466
+LD-1268,2026-04-26,Core Corp,info@corecorp.com,GOOGLE,Mid-Market,Yes,2026-05-03,Yes,2026-05-11,605
+LD-1109,2026-05-09,Summit Corp,,Google,Mid-Market,No,,No,,
+LD-1061,2026-03-14,Flux Partners,info@fluxpartners.com,null,Enterprise,No,,No,,
+LD-1208,29/03/2026,Acme Technologies,info@acmetechnologies.com,Referral,Enterprise,Yes,02/04/2026,Yes,18/04/2026,4270
+LD-1022,2026-04-05,Nova Partners,info@novapartners.com,google,SMB,No,,No,,
+LD-1173,10/04/2026,Flux LLC,info@fluxllc.com,Cold Outreach,SMB,Yes,18/04/2026,Yes,07/05/2026,163
+LD-1370,2026-04-11,Omega LLC,info@omegallc.com,,SMB,Yes,2026-04-17,No,,
+LD-1174,2026-03-19,Stellar LLC,info@stellarllc.com,GOOGLE,Mid-Market,No,,No,,
+LD-1524,2026-03-12,Acme Partners,info@acmepartners.com,LinkedIn Ads,Mid-Market,No,,No,,
+LD-1516,27/03/2026, Helix LLC  ,info@helixllc.com,,Enterprise,Yes,31/03/2026,No,,
+LD-1231,2026-04-20 14:01:00,Beacon Partners,info@beaconpartners.com,Referral,Mid-Market,Yes,2026-04-30 15:05:00,No,,
+LD-1365,07/03/2026,Alpha Co,info@alphaco.com,referral,Enterprise,No,,No,,
+LD-1256,2026-03-05,Pulse Technologies,info@pulsetechnologies.com,null,Mid-Market,Yes,2026-03-07,No,,
+LD-1158,2026-04-15,Helix Technologies,info@helixtechnologies.com,Google,SMB,No,,No,,
+LD-1513,2026-03-14,Cloud Corp,info@cloudcorp.com,,Enterprise,Yes,2026-03-24,No,,
+LD-1384,2026-05-22,Bold Solutions,info@boldsolutions.com,LinkedIn Ads,Mid-Market,No,,No,,
+LD-1033,21/03/2026,Pulse LLC,info@pulsellc.com,null,SMB,Yes,27/03/2026,No,,
+LD-1509,2026-03-05,Apex Technologies,info@apextechnologies.com,google,Mid-Market,No,,No,,
+LD-1251,2026-05-21,Omega LLC,info@omegallc.com,referral,Enterprise,Yes,2026-05-26,No,,
+LD-1123,2026-04-04,Helix Partners,info@helixpartners.com,LinkedIn,Enterprise,Yes,2026-04-11,Yes,2026-05-01,999999
+LD-1304,2026-05-07,Core Solutions,info@coresolutions.com,GOOGLE,Mid-Market,Yes,2026-05-10,No,,
+LD-1500,2026-03-05,Alpha Partners,,LinkedIn,Enterprise,Yes,2026-03-06,No,,
+LD-1502,2026-05-06 16:53:00,Alpha Corp,info@alphacorp.com,,Enterprise,No,,No,,
+LD-1019,2026-03-10,Beacon Partners,info@beaconpartners.com,cold outreach,Enterprise,Yes,2026-03-18,No,,
+LD-1072,2026-03-16,Helix Solutions,info@helixsolutions.com,referral,Mid-Market,No,,No,,
+LD-1380,2026-04-02, Alpha Group  ,info@alphagroup.com,cold outreach,SMB,No,,No,,
+LD-1225,2026-04-01 12:19:00, Nova Inc  ,info@novainc.com,Cold Outreach,Mid-Market,Yes,2026-04-02 11:05:00,No,,
+LD-1369,2026-05-14,Cloud Group,info@cloudgroup.com,GOOGLE,SMB,Yes,2026-05-24,No,,
+LD-1044,2026-03-31,Synergy Solutions,,referral,Enterprise,No,,No,,
+LD-1250,05/04/2026,Nova Corp,info@novacorp.com,LinkedIn Ads,Mid-Market,Yes,07/04/2026,Yes,27/04/2026,1040
+LD-1375,2026-04-02,Apex Technologies,info@apextechnologies.com,LinkedIn Ads,Mid-Market,Yes,2026-04-11,No,,
+LD-1323,2026-04-11 17:29:00,Acme Global,info@acmeglobal.com,GOOGLE,SMB,Yes,2026-04-21 10:59:00,Yes,2026-04-29 13:55:00,237
+LD-1421,2026-05-16,Summit Partners,info@summitpartners.com,Webinar,Enterprise,Yes,2026-05-17,No,,
+LD-1458,2026-04-08,Apex Solutions,info@apexsolutions.com,Referral,Mid-Market,Yes,2026-04-13,No,,
+LD-1154,2026-05-09,Apex Solutions,info@apexsolutions.com,Google,Enterprise,Yes,2026-05-11,No,,
+LD-1098,2026-03-06,Alpha Inc,info@alphainc.com,google,Mid-Market,Yes,2026-03-13,Yes,2026-03-22,1305
+LD-1465,2026-03-20,Core LLC,info@corellc.com,Cold Outreach,Enterprise,Yes,2026-03-23,Yes,2026-03-29,4655
+LD-1381,2026-05-20,Stellar Partners,info@stellarpartners.com,google,Enterprise,Yes,2026-05-24,No,,
+LD-1021,2026-05-22,Omega Co,info@omegaco.com,LinkedIn,SMB,Yes,2026-05-25,No,,
+LD-1284,2026-03-23 09:35:00,Helix Solutions,info@helixsolutions.com,null,Mid-Market,Yes,2026-03-25 18:23:00,Yes,2026-03-31 11:14:00,1323
+LD-1091,2026-04-20,Core Global,info@coreglobal.com,null,Mid-Market,No,,No,,
+LD-1104,2026-05-09,Sovereign LLC,info@sovereignllc.com,cold outreach,Mid-Market,No,,No,,
+LD-1368,2026-03-06 18:07:00,Alpha Partners,info@alphapartners.com,GOOGLE,Mid-Market,Yes,2026-03-07 17:59:00,No,,
+LD-1541,2026-04-07, Pulse Inc  ,info@pulseinc.com,LinkedIn Ads,SMB,No,,No,,
+LD-1236,2026-04-04,Nova Group,info@novagroup.com,referral,SMB,Yes,2026-04-08,No,,
+LD-1042,2026-03-23,Stellar LLC,,linkedin,SMB,Yes,2026-04-02,No,,
+LD-1175,2026-04-10,Summit Partners,info@summitpartners.com,linkedin,Mid-Market,Yes,2026-04-17,No,,
+LD-1527,2026-05-16 14:29:00,Apex Corp,info@apexcorp.com,linkedin,SMB,Yes,2026-05-21 12:20:00,Yes,2026-06-04 13:34:00,181
+LD-1188,2026-03-27,Zenith Co,info@zenithco.com,,Enterprise,Yes,2026-03-29,No,,
+LD-1047,2026-04-29,Pulse Co,info@pulseco.com,cold outreach,Enterprise,No,,No,,
+LD-1259,2026-05-18,Summit Group (Duplicate Entry),info@summitgroup.com,,SMB,Yes,2026-05-27,Yes,2026-06-06,182
+LD-1535,2026-05-08,Shift LLC,info@shiftllc.com,GOOGLE,Mid-Market,Yes,2026-05-14,Yes,2026-06-01,1303
+LD-1029,2026-05-08,Beacon Group,info@beacongroup.com,LinkedIn,Mid-Market,Yes,2026-05-16,No,,
+LD-1206,2026-03-09 16:02:00,Stellar LLC,info@stellarllc.com,Webinar,Enterprise,Yes,2026-03-16 14:57:00,No,,
+LD-1156,2026-05-06, Nova LLC  ,info@novallc.com,GOOGLE,Enterprise,Yes,2026-05-08,Yes,2026-05-22,5510
+LD-1350,2026-05-24,Cloud Technologies,info@cloudtechnologies.com,Referral,SMB,Yes,2026-06-03,Yes,2026-06-11,300
+LD-1444,2026-04-30,Acme LLC,info@acmellc.com,google,Mid-Market,Yes,2026-05-02,No,,
+LD-1184,2026-04-18,Synergy Inc,info@synergyinc.com,LinkedIn,SMB,Yes,2026-04-25,Yes,2026-05-06,205
+LD-1275,2026-04-10,Shift LLC,info@shiftllc.com,,Mid-Market,No,,No,,
+LD-1291,2026-03-17,Beacon Co,info@beaconco.com,null,Mid-Market,Yes,2026-03-22,Yes,2026-04-02,639
+LD-1490,2026-03-06,Cloud Technologies,info@cloudtechnologies.com,GOOGLE,SMB,Yes,2026-03-12,No,,
+LD-1247,2026-04-14,Alpha Partners,info@alphapartners.com,,Enterprise,Yes,2026-04-20,No,,
+LD-1353,15/03/2026,Zenith Group,info@zenithgroup.com,google,Enterprise,No,,No,,
+LD-1197,2026-03-13,Sovereign Partners,info@sovereignpartners.com,linkedin,Mid-Market,Yes,2026-03-18,No,,
+LD-1180,2026-05-06,Bold Global,info@boldglobal.com,LinkedIn Ads,SMB,Yes,2026-05-16,No,,
+LD-1116,2026-04-02, Sovereign Partners  ,info@sovereignpartners.com,google,Mid-Market,Yes,2026-04-08,No,,
+LD-1427,2026-05-01,Nova LLC,info@novallc.com,Webinar,Enterprise,Yes,2026-05-07,No,,
+LD-1437,2026-03-23,Sovereign Global,info@sovereignglobal.com,referral,Mid-Market,Yes,2026-04-02,Yes,2026-04-10,1207
+LD-1474,2026-04-08 12:54:00,Core Inc,info@coreinc.com,linkedin,Enterprise,Yes,2026-04-18 18:09:00,Yes,2026-05-07 14:09:00,4133
+LD-1207,2026-04-18,Pulse Group,info@pulsegroup.com,GOOGLE,Enterprise,Yes,2026-04-21,No,,
+LD-1224,2026-03-31,Cloud Technologies,info@cloudtechnologies.com,Referral,SMB,Yes,2026-04-07,No,,
+LD-1245,2026-05-11,Shift Solutions,info@shiftsolutions.com,,Enterprise,Yes,2026-05-20,Yes,2026-05-25,6954
+LD-1430,2026-03-26,Synergy Technologies,info@synergytechnologies.com,LinkedIn,Enterprise,Yes,2026-03-28,Yes,2026-04-04,7035
+LD-1543,2026-04-30,Pulse LLC,info@pulsellc.com,Referral,SMB,Yes,2026-05-03,Yes,2026-05-10,265
+LD-1264,2026-05-03,Stellar Co,info@stellarco.com,referral,Mid-Market,No,,No,,
+LD-1002,2026-03-12, Apex Inc  ,info@apexinc.com,cold outreach,SMB,Yes,2026-03-21,No,,
+LD-1295,2026-03-23,Omega Partners,info@omegapartners.com,google,Mid-Market,Yes,2026-03-26,Yes,2026-04-01,1350
+LD-1201,2026-05-17,Pulse Partners,info@pulsepartners.com,LinkedIn,SMB,No,,No,,
+LD-1169,2026-03-12,Summit Group,info@summitgroup.com,cold outreach,Mid-Market,No,,No,,
+LD-1359,2026-03-17,Zenith Corp,info@zenithcorp.com,google,Mid-Market,No,,No,,
+LD-1078,2026-05-15 13:36:00,Apex Group,info@apexgroup.com,linkedin,SMB,No,,No,,
+LD-1137,2026-03-11,Sovereign Co,info@sovereignco.com,Webinar,Mid-Market,Yes,2026-03-13,No,,
+LD-1521,2026-04-15,Sovereign Technologies,info@sovereigntechnologies.com,Referral,Enterprise,Yes,2026-04-18,No,,
+LD-1341,2026-03-16 15:33:00, Stellar LLC  ,info@stellarllc.com,GOOGLE,SMB,Yes,2026-03-26 16:09:00,No,,
+LD-1020,2026-03-25,Helix Co,info@helixco.com,null,SMB,No,,No,,
+LD-1001,2026-05-21,Beacon Solutions,info@beaconsolutions.com,Webinar,Enterprise,No,,No,,
+LD-1463,2026-05-16 17:10:00,Nova Global,info@novaglobal.com,linkedin,Enterprise,Yes,2026-05-17 17:24:00,No,,
+LD-1335,2026-03-09,Beacon Co,info@beaconco.com,null,Enterprise,Yes,2026-03-12,No,,
+LD-1077,2026-04-04, Zenith Partners  ,,Referral,Enterprise,Yes,2026-04-09,Yes,2026-04-21,7712
+LD-1255,2026-05-11,Zenith LLC,info@zenithllc.com,referral,Mid-Market,Yes,2026-05-21,Yes,2026-06-02,799
+LD-1010,2026-05-14,Shift LLC,info@shiftllc.com,GOOGLE,Enterprise,Yes,2026-05-15,No,,
+LD-1242,2026-04-18,Bold Partners,info@boldpartners.com,null,Mid-Market,Yes,2026-04-24,No,,
+LD-1448,2026-03-20,Acme Global,info@acmeglobal.com,LinkedIn Ads,Mid-Market,Yes,2026-03-21,No,,
+LD-1503,2026-05-09,Helix Co,info@helixco.com,cold outreach,Enterprise,No,,No,,
+LD-1373,2026-03-17 11:32:00,Pulse Co,info@pulseco.com,Cold Outreach,Mid-Market,Yes,2026-03-24 17:18:00,No,,
+LD-1293,2026-04-29,Vortex Corp,info@vortexcorp.com,null,Enterprise,Yes,2026-05-03,No,,
+LD-1037,2026-03-05 12:12:00,Alpha Co,info@alphaco.com,LinkedIn,SMB,Yes,2026-03-09 15:21:00,Yes,2026-03-16 13:22:00,264
+LD-1450,2026-04-20,Omega LLC,info@omegallc.com,Webinar,SMB,Yes,2026-04-30,No,,
+LD-1501,06/05/2026,Apex Solutions,info@apexsolutions.com,linkedin,Mid-Market,Yes,13/05/2026,Yes,19/05/2026,1206
+LD-1053,09/05/2026,Synergy Partners,info@synergypartners.com,Google,Mid-Market,Yes,16/05/2026,No,,
+LD-1442,2026-05-23,Beacon LLC,info@beaconllc.com,LinkedIn Ads,Enterprise,Yes,2026-05-31,No,,
+LD-1367,2026-03-06 16:08:00,Helix Corp,info@helixcorp.com,google,Mid-Market,Yes,2026-03-10 14:06:00,No,,
+LD-1227,2026-05-12,Apex Corp,info@apexcorp.com,Cold Outreach,Enterprise,No,,No,,
+LD-1055,13/04/2026,Omega Technologies,info@omegatechnologies.com,linkedin,SMB,Yes,22/04/2026,Yes,08/05/2026,157
+LD-1330,2026-05-04,Vortex Inc,info@vortexinc.com,referral,SMB,No,,No,,
+LD-1315,2026-05-09,Stellar Technologies,,cold outreach,Enterprise,No,,No,,
+LD-1491,2026-04-08,Cloud Technologies,info@cloudtechnologies.com,Referral,SMB,No,,No,,
+LD-1221,2026-05-09 09:33:00,Apex Corp,info@apexcorp.com,,SMB,Yes,2026-05-13 10:45:00,Yes,2026-05-24 17:29:00,195
+LD-1537,13/05/2026,Vortex Partners,info@vortexpartners.com,referral,SMB,Yes,20/05/2026,Yes,28/05/2026,275
+LD-1528,2026-04-26,Beacon Group,info@beacongroup.com,cold outreach,Enterprise,Yes,2026-04-30,No,,
+LD-1074,2026-03-21,Pulse Corp,info@pulsecorp.com,null,Enterprise,Yes,2026-03-22,Yes,2026-04-05,6719
+LD-1015,2026-03-11,Zenith Corp,info@zenithcorp.com,GOOGLE,SMB,No,,No,,
+LD-1436,2026-03-31,Omega Solutions,info@omegasolutions.com,GOOGLE,Mid-Market,No,,No,,
+LD-1331,2026-04-30,Flux Co,info@fluxco.com,null,Enterprise,Yes,2026-05-01,No,,
+LD-1483,18/05/2026,Alpha Group,info@alphagroup.com,LinkedIn,SMB,No,,No,,
+LD-1202,2026-05-16 10:33:00,Alpha Global,info@alphaglobal.com,cold outreach,SMB,Yes,2026-05-25 17:12:00,No,,
+LD-1313,2026-03-10,Omega Group,info@omegagroup.com,google,Mid-Market,Yes,2026-03-20,No,,
+LD-1103,2026-04-08, Vortex Group  ,,referral,SMB,Yes,2026-04-17,Yes,2026-05-06,194
+LD-1252,2026-05-15,Sovereign Co,info@sovereignco.com,GOOGLE,Mid-Market,No,,No,,
+LD-1036,2026-03-04,Core LLC,info@corellc.com,,SMB,Yes,2026-03-06,No,,
+LD-1226,2026-04-25,Core Corp,info@corecorp.com,LinkedIn,SMB,No,,No,,
+LD-1092,2026-03-05,Synergy Technologies,info@synergytechnologies.com,Referral,SMB,No,,No,,
+LD-1136,2026-04-19,Core Inc,info@coreinc.com,google,Mid-Market,Yes,2026-04-26,Yes,2026-05-05,841
+LD-1417,2026-04-16,Omega Solutions,info@omegasolutions.com,referral,SMB,Yes,2026-04-25,No,,
+LD-1133,2026-05-16,Alpha Global,info@alphaglobal.com,Google,Mid-Market,No,,No,,
+LD-1031,2026-03-18,Vortex Global,info@vortexglobal.com,LinkedIn,Enterprise,Yes,2026-03-23,No,,
+LD-1171,2026-05-13,Acme Partners,info@acmepartners.com,Webinar,Mid-Market,Yes,2026-05-20,Yes,2026-05-27,1205
+LD-1199,2026-04-29,Omega Global,info@omegaglobal.com,,Mid-Market,No,,No,,
+LD-1196,02/03/2026,Stellar Solutions,info@stellarsolutions.com,Referral,Mid-Market,Yes,04/03/2026,No,,
+LD-1032,2026-04-02 09:05:00, Helix Technologies  ,info@helixtechnologies.com,GOOGLE,Enterprise,No,,No,,
+LD-1398,2026-03-14,Bold Corp,info@boldcorp.com,GOOGLE,Enterprise,Yes,2026-03-16,No,,
+LD-1477,2026-03-08 14:22:00,Helix LLC,info@helixllc.com,,SMB,No,,No,,
+LD-1038,2026-05-05,Pulse Co,info@pulseco.com,linkedin,SMB,Yes,2026-05-10,Yes,2026-05-28,188
+LD-1544,2026-03-03,Zenith LLC,info@zenithllc.com,GOOGLE,Enterprise,No,,No,,
+LD-1083,2026-05-02,Bold Solutions,info@boldsolutions.com,Google,Enterprise,Yes,2026-05-06,No,,
+LD-1132,2026-04-05, Flux Global  ,info@fluxglobal.com,Google,SMB,Yes,2026-04-10,Yes,2026-04-17,257
+LD-1166,2026-03-10,Core Corp,info@corecorp.com,LinkedIn Ads,SMB,No,,No,,
+LD-1456,2026-04-26,Apex Solutions,info@apexsolutions.com,Cold Outreach,Enterprise,No,,No,,
+LD-1395,2026-05-02 14:08:00,Synergy Corp,info@synergycorp.com,LinkedIn,Mid-Market,Yes,2026-05-08 18:42:00,No,,
+LD-1342,24/03/2026,Zenith Co,info@zenithco.com,Webinar,SMB,Yes,29/03/2026,Yes,08/04/2026,247
+LD-1355,16/04/2026,Core LLC,info@corellc.com,,SMB,Yes,19/04/2026,No,,
+LD-1219,2026-03-03,Shift LLC,info@shiftllc.com,LinkedIn,Mid-Market,Yes,2026-03-07,No,,
+LD-1394,2026-05-10,Pulse Corp,info@pulsecorp.com,google,SMB,No,,No,,
+LD-1142,22/03/2026,Apex LLC,info@apexllc.com,referral,Enterprise,Yes,30/03/2026,Yes,11/04/2026,5535
+LD-1233,2026-03-14,Stellar Partners,info@stellarpartners.com,GOOGLE,SMB,Yes,2026-03-22,No,,
+LD-1328,2026-03-08,Summit Corp,info@summitcorp.com,GOOGLE,Enterprise,No,,No,,
+LD-1039,2026-04-10,Cloud Corp,info@cloudcorp.com,linkedin,SMB,No,,No,,
+LD-1339,2026-03-24 14:41:00,Nova Solutions,info@novasolutions.com,linkedin,Mid-Market,No,,No,,
+LD-1547,2026-03-11,Cloud Technologies,info@cloudtechnologies.com,cold outreach,SMB,Yes,2026-03-13,No,,
+LD-1151,2026-03-06,Flux Technologies,info@fluxtechnologies.com,google,Mid-Market,Yes,2026-03-08,No,,
+LD-1130,2026-04-14,Sovereign Solutions,info@sovereignsolutions.com,GOOGLE,Enterprise,Yes,2026-04-16,Yes,2026-05-06,6800
+LD-1523,2026-04-17,Stellar Solutions,info@stellarsolutions.com,LinkedIn Ads,SMB,No,,No,,
+LD-1357,04/04/2026,Zenith LLC,info@zenithllc.com,google,SMB,No,,No,,
+LD-1057,2026-03-15,Quantum Partners,info@quantumpartners.com,GOOGLE,Enterprise,Yes,2026-03-17,No,,
+LD-1459,20/04/2026,Acme Inc,info@acmeinc.com,null,Enterprise,Yes,22/04/2026,Yes,12/05/2026,3748
+LD-1095,2026-03-02 16:57:00,Stellar Global,info@stellarglobal.com,LinkedIn Ads,Enterprise,Yes,2026-03-09 13:29:00,No,,
+LD-1412,2026-03-20,Summit Partners,info@summitpartners.com,,Enterprise,Yes,2026-03-22,Yes,2026-03-31,7943
+LD-1290,2026-04-17,Nova Corp,info@novacorp.com,Referral,SMB,Yes,2026-04-18,No,,
+LD-1332,2026-03-21 12:54:00,Synergy Solutions,info@synergysolutions.com,Referral,Enterprise,Yes,2026-03-22 16:58:00,Yes,2026-04-01 18:51:00,3069
+LD-1461,11/05/2026,Flux Partners,,Referral,Mid-Market,No,,No,,
+LD-1536,2026-04-25,Core Global,info@coreglobal.com,Webinar,SMB,No,,No,,
+LD-1494,2026-05-07 15:58:00,Sovereign Group,info@sovereigngroup.com,null,SMB,Yes,2026-05-10 09:48:00,No,,
+LD-1193,08/05/2026,Apex Group,info@apexgroup.com,Google,Mid-Market,No,,No,,
+LD-1067,2026-04-14,Pulse Co,info@pulseco.com,linkedin,Mid-Market,Yes,2026-04-18,No,,
+LD-1310,2026-04-12,Beacon Solutions,info@beaconsolutions.com,linkedin,SMB,No,,No,,
+LD-1439,2026-04-02,Helix Corp,info@helixcorp.com,cold outreach,SMB,Yes,2026-04-11,Yes,2026-04-25,190
+LD-1045,2026-03-10,Shift Solutions,info@shiftsolutions.com,Referral,SMB,Yes,2026-03-11,No,,
+LD-1062,2026-04-04,Pulse Partners,info@pulsepartners.com,cold outreach,Mid-Market,Yes,2026-04-08,No,,
+LD-1532,2026-03-11 16:36:00,Sovereign Corp,info@sovereigncorp.com,referral,SMB,Yes,2026-03-19 16:14:00,No,,
+LD-1063,2026-03-12,Alpha Solutions,info@alphasolutions.com,Webinar,Mid-Market,Yes,2026-03-20,No,,
+LD-1327,2026-05-22,Alpha Solutions,info@alphasolutions.com,referral,Enterprise,No,,No,,
+LD-1307,2026-03-29,Summit LLC,info@summitllc.com,GOOGLE,SMB,No,,No,,
+LD-1487,2026-05-07,Summit Inc,info@summitinc.com,cold outreach,Mid-Market,Yes,2026-05-08,Yes,2026-05-21,1178
+LD-1112,2026-05-24, Alpha Inc  ,info@alphainc.com,Referral,Mid-Market,No,,No,,
+LD-1428,2026-04-15,Acme Technologies,info@acmetechnologies.com,Webinar,Enterprise,No,,No,,
+LD-1458,2026-04-08,Apex Solutions,info@apexsolutions.com,Referral,Mid-Market,Yes,2026-04-13,No,,
+LD-1337,2026-04-21,Apex Solutions,info@apexsolutions.com,Webinar,Enterprise,Yes,2026-04-29,No,,
+LD-1305,19/03/2026,Cloud Co,info@cloudco.com,Webinar,Mid-Market,Yes,25/03/2026,No,,
+LD-1481,2026-05-23,Pulse Global,info@pulseglobal.com,,Mid-Market,Yes,2026-06-02,Yes,2026-05-16,933
+LD-1030,2026-04-08,Cloud Inc,info@cloudinc.com,Webinar,SMB,No,,No,,
+LD-1048,24/04/2026,Pulse Partners,info@pulsepartners.com,referral,Mid-Market,Yes,28/04/2026,No,,
+LD-1318,2026-04-17 14:11:00,Alpha Inc,info@alphainc.com,LinkedIn,Mid-Market,Yes,2026-04-20 10:05:00,No,,
+LD-1514,2026-04-03,Bold Co,info@boldco.com,referral,Enterprise,No,,No,,
+LD-1018,2026-03-30,Acme Corp,info@acmecorp.com,google,SMB,No,,No,,
+LD-1099,2026-05-09 14:33:00,Cloud Technologies,info@cloudtechnologies.com,referral,Mid-Market,No,,No,,
+LD-1129,09/04/2026,Synergy Co,info@synergyco.com,Webinar,SMB,Yes,13/04/2026,No,,
+LD-1146,2026-03-19,Stellar Partners,info@stellarpartners.com,null,Mid-Market,Yes,2026-03-20,No,,
+LD-1372,2026-05-10 17:40:00,Quantum Solutions,info@quantumsolutions.com,Webinar,Mid-Market,No,,No,,
+LD-1113,02/05/2026,Alpha Corp,info@alphacorp.com,GOOGLE,SMB,Yes,12/05/2026,No,,
+LD-1180,2026-05-06,Bold Global,info@boldglobal.com,LinkedIn Ads,SMB,Yes,2026-05-16,No,,
+LD-1229,2026-04-19,Pulse Co,info@pulseco.com,,Enterprise,No,,No,,
+LD-1351,2026-03-14,Bold Solutions,info@boldsolutions.com,LinkedIn,Mid-Market,No,,No,,
+LD-1288,01/03/2026,Omega Technologies (Duplicate Entry),info@omegatechnologies.com,LinkedIn,Mid-Market,Yes,02/03/2026,No,,
+LD-1542,2026-03-04,Shift LLC,info@shiftllc.com,Referral,Mid-Market,Yes,2026-03-08,No,,
+LD-1526,27/03/2026,Alpha LLC,info@alphallc.com,Google,Mid-Market,No,,No,,
+LD-1422,2026-05-05,Synergy Group,info@synergygroup.com,Webinar,SMB,No,,No,,
+LD-1539,2026-05-14 09:48:00,Sovereign Group,info@sovereigngroup.com,cold outreach,Enterprise,Yes,2026-05-18 14:19:00,No,,
+LD-1070,2026-04-30,Core Group,info@coregroup.com,referral,SMB,No,,No,,
+LD-1009,2026-04-21,Quantum Co,info@quantumco.com,Webinar,Mid-Market,Yes,2026-04-24,Yes,2026-05-07,1264
+LD-1011,2026-03-20,Helix Corp,info@helixcorp.com,referral,Enterprise,Yes,2026-03-29,No,,
+LD-1321,2026-05-19,Alpha Group,info@alphagroup.com,LinkedIn,SMB,Yes,2026-05-26,Yes,2026-06-13,151
+LD-1185,04/05/2026,Zenith Inc,info@zenithinc.com,Cold Outreach,Mid-Market,No,,No,,
+LD-1346,2026-05-06,Core LLC,info@corellc.com,LinkedIn Ads,Mid-Market,Yes,2026-05-10,Yes,2026-05-27,519
+LD-1200,2026-05-21 13:23:00,Bold Solutions,info@boldsolutions.com,GOOGLE,Mid-Market,No,,No,,
+LD-1248,2026-03-22 12:33:00,Summit Global,info@summitglobal.com,referral,SMB,No,,No,,
+LD-1473,2026-04-02,Alpha Partners,,Google,Mid-Market,Yes,2026-04-11,Yes,2026-04-25,506
+LD-1401,2026-05-18,Cloud Group,info@cloudgroup.com,cold outreach,Enterprise,No,,No,,
+LD-1262,21/05/2026,Nova LLC,info@novallc.com,LinkedIn Ads,Mid-Market,No,,No,,
+LD-1101,2026-04-20 17:23:00, Nova LLC  ,info@novallc.com,referral,Mid-Market,No,,No,,
+LD-1274,2026-03-31,Vortex Solutions,info@vortexsolutions.com,Cold Outreach,SMB,No,,No,,
+LD-1277,24/04/2026,Nova Global,info@novaglobal.com,google,Mid-Market,Yes,28/04/2026,No,,
+LD-1344,2026-04-19,Pulse Solutions,info@pulsesolutions.com,LinkedIn Ads,Enterprise,Yes,2026-04-20,No,,
+LD-1280,2026-05-06,Beacon Group,info@beacongroup.com,linkedin,Enterprise,No,,No,,
+LD-1443,2026-03-24 11:46:00,Synergy Technologies,info@synergytechnologies.com,google,SMB,Yes,2026-03-26 10:04:00,No,,
+LD-1363,2026-04-27,Zenith Partners,info@zenithpartners.com,null,Enterprise,Yes,2026-05-04,No,,
+LD-1100,13/04/2026,Alpha Corp,info@alphacorp.com,Webinar,Enterprise,No,,No,,
+LD-1043,2026-04-11,Alpha Solutions,info@alphasolutions.com,,Enterprise,Yes,2026-04-13,Yes,2026-04-28,3765
+LD-1324,2026-04-14 13:24:00, Zenith Partners  ,info@zenithpartners.com,GOOGLE,Enterprise,Yes,2026-04-21 09:25:00,No,,
+LD-1392,2026-05-11,Apex Inc,info@apexinc.com,Cold Outreach,SMB,Yes,2026-05-17,Yes,2026-05-26,141
+LD-1460,2026-05-19,Apex Inc,info@apexinc.com,Cold Outreach,SMB,Yes,2026-05-23,No,,
+LD-1296,2026-03-29,Omega Co,info@omegaco.com,google,Enterprise,Yes,2026-03-31,Yes,2026-04-07,4619
+LD-1013,2026-04-03 11:32:00,Vortex Technologies,info@vortextechnologies.com,LinkedIn,SMB,Yes,2026-04-06 17:49:00,No,,
+LD-1446,2026-04-11 16:55:00,Pulse Technologies,info@pulsetechnologies.com,null,Enterprise,Yes,2026-04-21 16:40:00,No,,
+LD-1149,2026-03-03,Shift Solutions,info@shiftsolutions.com,Google,Enterprise,Yes,2026-03-13,No,,
+LD-1269,2026-04-10,Stellar Group,info@stellargroup.com,GOOGLE,Enterprise,No,,No,,
+LD-1486,2026-04-03,Bold Group,info@boldgroup.com,Referral,Enterprise,No,,No,,
+LD-1400,2026-03-20,Synergy Technologies,info@synergytechnologies.com,google,Mid-Market,Yes,2026-03-21,No,,
+LD-1389,2026-05-08,Bold Corp,info@boldcorp.com,null,SMB,Yes,2026-05-17,Yes,2026-05-31,255
+LD-1240,2026-04-11,Omega Co,info@omegaco.com,cold outreach,Enterprise,Yes,2026-04-20,Yes,2026-05-09,4717
+LD-1546,2026-04-04, Pulse Co  ,,referral,Enterprise,Yes,2026-04-14,No,,
+LD-1550,2026-03-22,Stellar Inc,info@stellarinc.com,Cold Outreach,SMB,No,,No,,
+LD-1309,12/04/2026,Synergy Co,info@synergyco.com,google,Enterprise,No,,No,,
+LD-1488,2026-05-24,Vortex Inc,info@vortexinc.com,Referral,SMB,No,,No,,
+LD-1409,2026-04-21,Shift Inc,info@shiftinc.com,linkedin,SMB,Yes,2026-05-01,No,,
+LD-1476,11/04/2026,Summit Partners,info@summitpartners.com,cold outreach,SMB,Yes,16/04/2026,Yes,03/05/2026,120
+LD-1155,2026-04-25 16:57:00,Omega Co (Duplicate Entry),info@omegaco.com,referral,Mid-Market,No,,No,,
+LD-1054,2026-04-29 18:34:00,Acme LLC,info@acmellc.com,google,Enterprise,Yes,2026-05-07 11:03:00,Yes,2026-05-22 12:29:00,5677
+LD-1119,29/03/2026,Flux Global,info@fluxglobal.com,cold outreach,SMB,No,,No,,
+LD-1271,2026-05-18,Quantum Corp,info@quantumcorp.com,google,Enterprise,No,,No,,
+LD-1056,2026-05-23,Apex Inc,info@apexinc.com,Google,Enterprise,Yes,2026-05-26,No,,
+LD-1354,2026-04-02,Alpha Technologies,info@alphatechnologies.com,GOOGLE,SMB,No,,No,,
+LD-1216,2026-03-02,Quantum Corp,info@quantumcorp.com,LinkedIn,Enterprise,Yes,2026-03-06,No,,
+LD-1172,2026-03-08,Helix Partners,info@helixpartners.com,GOOGLE,Mid-Market,No,,No,,
+LD-1451,2026-04-04,Pulse Technologies,info@pulsetechnologies.com,GOOGLE,SMB,Yes,2026-04-12,No,,
+LD-1244,2026-05-22,Omega Co,info@omegaco.com,Google,SMB,Yes,2026-05-31,No,,
+LD-1393,2026-03-24,Beacon Solutions,info@beaconsolutions.com,cold outreach,SMB,No,,No,,
+LD-1423,2026-03-12 15:22:00,Omega LLC,info@omegallc.com,null,Enterprise,Yes,2026-03-14 17:18:00,No,,
+LD-1508,2026-03-01,Pulse Technologies,info@pulsetechnologies.com,LinkedIn,SMB,Yes,2026-03-02,No,,
